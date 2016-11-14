@@ -1,0 +1,8 @@
+E:\Google Drive\SU\08-C# Advanced OOP-Jul_2016\11 - Exam-Aug_7\RecyclingStation\TestRecyclingStation\bin\Debug\TestRecyclingStation.dll
+E:\Google Drive\SU\08-C# Advanced OOP-Jul_2016\11 - Exam-Aug_7\RecyclingStation\TestRecyclingStation\bin\Debug\TestRecyclingStation.pdb
+E:\Google Drive\SU\08-C# Advanced OOP-Jul_2016\11 - Exam-Aug_7\RecyclingStation\TestRecyclingStation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Google Drive\SU\08-C# Advanced OOP-Jul_2016\11 - Exam-Aug_7\RecyclingStation\TestRecyclingStation\obj\Debug\TestRecyclingStation.csprojResolveAssemblyReference.cache
+E:\Google Drive\SU\08-C# Advanced OOP-Jul_2016\11 - Exam-Aug_7\RecyclingStation\TestRecyclingStation\obj\Debug\TestRecyclingStation.dll
+E:\Google Drive\SU\08-C# Advanced OOP-Jul_2016\11 - Exam-Aug_7\RecyclingStation\TestRecyclingStation\obj\Debug\TestRecyclingStation.pdb
+E:\Google Drive\SU\08-C# Advanced OOP-Jul_2016\11 - Exam-Aug_7\RecyclingStation\TestRecyclingStation\bin\Debug\RecyclingStation.exe
+E:\Google Drive\SU\08-C# Advanced OOP-Jul_2016\11 - Exam-Aug_7\RecyclingStation\TestRecyclingStation\bin\Debug\RecyclingStation.pdb

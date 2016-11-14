@@ -1,0 +1,6 @@
+G:\SoftUni\SoftUni Work\SoftUniSVN\OOP Advaned Exam\C# Skeleton\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.exe.config
+E:\Google Drive\SU\08-C# Advanced OOP-Jul_2016\11 - Exam-Aug_7\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.exe.config
+E:\Google Drive\SU\08-C# Advanced OOP-Jul_2016\11 - Exam-Aug_7\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.exe
+E:\Google Drive\SU\08-C# Advanced OOP-Jul_2016\11 - Exam-Aug_7\RecyclingStation\RecyclingStation\bin\Debug\RecyclingStation.pdb
+E:\Google Drive\SU\08-C# Advanced OOP-Jul_2016\11 - Exam-Aug_7\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.exe
+E:\Google Drive\SU\08-C# Advanced OOP-Jul_2016\11 - Exam-Aug_7\RecyclingStation\RecyclingStation\obj\Debug\RecyclingStation.pdb
